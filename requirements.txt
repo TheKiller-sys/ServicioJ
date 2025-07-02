@@ -1,5 +1,0 @@
-pytelegrambotapi
-python-dotenv
-schedule
-requests
-Flask
